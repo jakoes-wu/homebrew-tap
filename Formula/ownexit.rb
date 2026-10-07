@@ -3,8 +3,8 @@ class Ownexit < Formula
 
   desc "Turn a VPS you rent into your own fixed exit IP"
   homepage "https://github.com/jakoes-wu/ownexit"
-  url "https://files.pythonhosted.org/packages/07/64/bf2a22f661f1d50e172d6ad29db0d9bac02a777ac455f9fc85129e075976/ownexit-1.5.0.tar.gz"
-  sha256 "1c63ac7ed005971ddd520c51aa875ed6c95ecea24e0bcd137ed004cc52f291fc"
+  url "https://files.pythonhosted.org/packages/69/46/d315aaeba66c74c213d9b589671aefa2bc58b87fe9b1d06bbf021058d0ca/ownexit-1.6.0.tar.gz"
+  sha256 "f18bb3325cfd39175b258501fbabbbb1177160d95aeeee6770acef17e94dba82"
   license "MIT"
 
   depends_on "python@3.14"
