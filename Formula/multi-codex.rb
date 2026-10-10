@@ -3,8 +3,8 @@
 class MultiCodex < Formula
   desc "Run several Codex CLI accounts side by side"
   homepage "https://github.com/jakoes-wu/multi-codex"
-  url "https://github.com/jakoes-wu/multi-codex/releases/download/v0.10.0/multi-codex-v0.10.0.tar.gz"
-  sha256 "8b67e2fd5b127b9420b65d3cd1b5d795d27ddb52454f53ea30e6ec7eafe21f9a"
+  url "https://github.com/jakoes-wu/multi-codex/releases/download/v0.11.0/multi-codex-v0.11.0.tar.gz"
+  sha256 "273abf73beab4c49a1fcef5a85a1c9207e4f2706fde2da39648b9e461d4aa915"
   license "MIT"
 
   depends_on "python@3.13"
