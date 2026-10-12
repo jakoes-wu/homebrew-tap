@@ -3,8 +3,8 @@
 class MultiClaude < Formula
   desc "Run several Claude Code accounts side by side"
   homepage "https://github.com/jakoes-wu/multi-claude"
-  url "https://github.com/jakoes-wu/multi-claude/releases/download/v0.9.1/multi-claude-v0.9.1.tar.gz"
-  sha256 "eb5faf30e8ea4a7501068549669f189f1c6f291443923d8c4fff5f9a0b9b06be"
+  url "https://github.com/jakoes-wu/multi-claude/releases/download/v0.10.0/multi-claude-v0.10.0.tar.gz"
+  sha256 "ce7525fe2119e4ccefb64b04fe4dbbabed6aaeebbbf0e484776d25ae3ea8cda6"
   license "MIT"
 
   depends_on "python@3.13"
