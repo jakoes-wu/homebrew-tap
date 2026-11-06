@@ -3,8 +3,8 @@
 class AgentLock < Formula
   desc "Lock Codex and Claude to the local HTTP proxy"
   homepage "https://github.com/jakoes-wu/agent-lock"
-  url "https://github.com/jakoes-wu/agent-lock/releases/download/v0.1.0/agent-lock-v0.1.0.tar.gz"
-  sha256 "a05b8b4e8677ec8b53b1493ca43cbb8f92f210508fa7d44edae13b07b929081b"
+  url "https://github.com/jakoes-wu/agent-lock/releases/download/v0.1.1/agent-lock-v0.1.1.tar.gz"
+  sha256 "6373d3bc6e6a6a525f6a5178c040c3345d9ecfcb45826b2add5830e762ec78e6"
   license "MIT"
 
   depends_on "python@3.13"
